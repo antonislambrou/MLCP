@@ -1,0 +1,2 @@
+javac -cp weka.jar:mulan.jar:guava-r06.jar Main.java CP.java
+jar cmf MANIFEST.MF Main.jar Main.class
